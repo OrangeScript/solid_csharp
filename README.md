@@ -1,2 +1,1 @@
-# solid_csharp
-principios S.O.L.I.D. con C#
+# Principios SOLID en C#
